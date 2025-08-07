@@ -2,7 +2,7 @@
 
 A modern, feature-rich task management application built with vanilla JavaScript, HTML5, and CSS3. This project was created as part of an internship task to demonstrate front-end development skills.
 
-![To-Do List App](https://github.com/draxxycodes/Internship-Task2/raw/main/screenshot.png)
+
 
 ## Features
 
